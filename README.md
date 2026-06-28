@@ -18,7 +18,7 @@
 
 ---
 
-# 📖 Executive Summary
+## Executive Summary
 
 Healthcare organizations generate large volumes of operational and patient-related data every day. Converting this information into meaningful insights is essential for improving patient experience, optimizing hospital operations, and supporting strategic decision-making.
 
@@ -28,7 +28,7 @@ The dashboard enables hospital administrators to identify performance gaps, comp
 
 ---
 
-# 🎯 Business Problem
+## Business Problem
 
 Hospital management needs timely and accurate insights to answer questions such as:
 
@@ -42,7 +42,7 @@ Without centralized reporting, these insights remain difficult to identify quick
 
 ---
 
-# 🎯 Project Objectives
+## Project Objectives
 
 * Build an interactive healthcare performance dashboard.
 * Monitor patient satisfaction across departments and branches.
@@ -53,7 +53,7 @@ Without centralized reporting, these insights remain difficult to identify quick
 
 ---
 
-# 📂 Dataset Overview
+## Dataset Overview
 
 The dataset contains healthcare operational data collected across multiple hospital branches, including:
 
@@ -71,9 +71,9 @@ The dataset contains healthcare operational data collected across multiple hospi
 
 ---
 
-# 📊 Dashboard Features
+## Dashboard Features
 
-## Executive KPI Cards
+### Executive KPI Cards
 
 The dashboard highlights five key performance indicators:
 
@@ -85,19 +85,19 @@ The dashboard highlights five key performance indicators:
 
 ---
 
-## Department Performance Matrix
+### Department Performance Matrix
 
 A heatmap comparing average satisfaction scores across hospital branches and medical departments, making it easy to identify high-performing and underperforming service areas.
 
 ---
 
-## Patient Volume Analysis
+### Patient Volume Analysis
 
 Visual comparison of patient visits across hospital branches to understand workload distribution.
 
 ---
 
-## Visit Type Experience
+### Visit Type Experience
 
 Comparison of patient satisfaction across:
 
@@ -107,7 +107,7 @@ Comparison of patient satisfaction across:
 
 ---
 
-## Age Group Experience
+### Age Group Experience
 
 Evaluation of satisfaction levels among:
 
@@ -117,7 +117,7 @@ Evaluation of satisfaction levels among:
 
 ---
 
-## Patient Experience Drivers
+### Patient Experience Drivers
 
 Comparison of key service quality indicators:
 
@@ -127,7 +127,7 @@ Comparison of key service quality indicators:
 
 ---
 
-## Department Efficiency Analysis
+### Department Efficiency Analysis
 
 Scatter plot analyzing the relationship between:
 
@@ -138,7 +138,7 @@ This visualization helps identify departments delivering efficient service while
 
 ---
 
-# 🎛 Interactive Filters
+## Interactive Filters
 
 Users can dynamically filter the dashboard by:
 
@@ -150,7 +150,7 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-# 🔍 Key Insights
+## Key Insights
 
 ✔ Patient satisfaction varies significantly across departments and hospital branches.
 
@@ -164,7 +164,7 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-# 💡 Business Recommendations
+## Business Recommendations
 
 * Reduce waiting times in lower-performing departments.
 * Adopt operational practices from high-performing branches.
@@ -174,7 +174,7 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-# 🛠 Tools & Technologies
+## Tools & Technologies
 
 | Tool                 | Purpose                     |
 | -------------------- | --------------------------- |
@@ -185,7 +185,7 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-# 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning
 * Data Visualization
@@ -199,7 +199,7 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-# 📌 Future Enhancements
+## Future Enhancements
 
 Potential future improvements include:
 
@@ -211,7 +211,7 @@ Potential future improvements include:
 
 ---
 
-# 👩 About the Author
+## About the Author
 
 **Shamna Abdul Razak**
 
