@@ -185,21 +185,6 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Healthcare-Patient-Satisfaction-Analysis
-│
-├── Dataset
-├── Tableau Workbook
-├── Dashboard Images
-├── Presentation
-├── Documentation
-└── README.md
-```
-
----
-
 # 🚀 Skills Demonstrated
 
 * Data Cleaning
